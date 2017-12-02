@@ -1,2 +1,1 @@
-MM_SIZE=1600
-convert $1 -resize $MM_SIZE
+convert image.png -resize $MM_WIDTH "image-$MM_WIDTH.png"

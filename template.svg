@@ -1,32 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" 
-     width="1600" 
-     xmlns:xlink=
-     "http://www.w3.org/1999/xlink"
+<svg
+     width="$MM_WIDTH" 
+     height="$MM_HEIGHT" 
 >
     <defs>
         <style>
             @import url('http://fonts.googleapis.com/css?family=Lobster');
             @import url('https://fonts.googleapis.com/css?family=Passion+One');
-
         </style>
     </defs>
-    <text id="SvgjsText1046" 
-          font-family="Passion+One" 
-          fill="#000000" 
-          font-size="30px" 
-          stroke-width="0" 
-          font-style="" 
-          font-weight="" 
-          text-decoration=" " 
-          x="859.9871134019216" 
-          y="476.38530927854697" 
-          transform="
-              rotate(0 1214.8671520099174 1164.5108891121047) 
-              translate(-9360.999092988961 -5185.475896759851) 
-              scale(11.885045772324295 11.885045772324297) "
+    <text 
+        fill="$MM_TEXTCOLOR" 
+        font-size="120" 
+        text-anchor="end"
+        font-weight="bold"
+        transform="translate($MM_WIDTH 400) translate(-80)"
      >
-        <tspan id="SvgjsTspan1072" dy="29">TEST</tspan>
-        <tspan id="SvgjsTspan1073" dy="29">TEST</tspan>
-        <tspan id="SvgjsTspan1074" dy="29">TEST</tspan>
+        <tspan x="0" dy="100"  >are</tspan>
+        <tspan x="0" dy="100"  >your</tspan>
+        <tspan x="0" dy="100"  >zeros</tspan>
+        <tspan x="0" dy="100"  >ready?</tspan>
     </text>
 </svg>

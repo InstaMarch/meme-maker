@@ -1,0 +1,24 @@
+<svg
+     width="$MM_WIDTH" 
+     height="$MM_HEIGHT"
+     viewbox="0	0 $MM_WIDTH $MM_HEIGHT"
+>
+    <defs>
+        <style>
+            @import url('http://fonts.googleapis.com/css?family=Lobster');
+            @import url('https://fonts.googleapis.com/css?family=Passion+One');
+        </style>
+    </defs>
+    <text 
+          fill="$MM_TEXTCOLOR" 
+          font-size="120px" 
+         text-anchor="end"
+         font-weight="bold"
+          transform="translate($MM_WIDTH, 420) translate(-80)"
+     >
+        <tspan x="0" dy="100"  >r</tspan>
+        <tspan x="0" dy="100"  >ur</tspan>
+        <tspan x="0" dy="100"  >0s</tspan>
+        <tspan x="0" dy="100"  >rdy?</tspan>
+    </text>
+</svg>
